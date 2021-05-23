@@ -1,4 +1,4 @@
-# Secance
+# Secance - Android Mobile Application Project 
 
 Secance is an android mobile application that makes managing your second home(s) or properties effortless. It curates the maintenance tasks that needs to be done on your property and presents them in an easily digestible format. At the touch of a button, you can get your lawns mowed, plumbing repairs done, etc without the need to be physically present.
 
