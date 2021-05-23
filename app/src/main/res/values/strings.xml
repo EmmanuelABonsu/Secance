@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Secance</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="at_secance_we_are_committed_to_giving_you_the_best_home_maintenance_service_to_get_you_started_please_click_add_property_to_add_the_address_of_your_property_once_submitted_we_will_verify_and_update_your_dashboard_accordingly">At Secance, we are committed to giving you the best Home maintenance service. To get you started, please click ADD PROPERTY to add the address of your property. Once submitted, we will verify and update your dashboard accordingly.</string>
+
+    <string-array name="description">
+        <item>Description</item>
+        <item>Description</item>
+        <item>Description</item>
+        <item>Description</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string-array name="Tasks">
+        <item>Plumbing</item>
+        <item>Mowing</item>
+        <item>Roofing</item>
+        <item>Electricity</item>
+    </string-array>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "901008788745",
+    "project_id": "secance-99ba1",
+    "storage_bucket": "secance-99ba1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901008788745:android:2e601a3b8a7d6744b697d8",
+        "android_client_info": {
+          "package_name": "com.example.secance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901008788745-tbk27vgbmpv3c9gmebqfg1thi85qltkc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrVBB7ek-P5DDNyKwNfJGz2Gjw_LkI-gA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901008788745-tbk27vgbmpv3c9gmebqfg1thi85qltkc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
